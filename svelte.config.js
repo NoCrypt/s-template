@@ -5,15 +5,10 @@ import preprocess from 'svelte-preprocess';
 const config = {
 	kit: {
 		adapter: adapter(),
-		vite: {
-			ssr: {
-				noExternal: ['three']
-			}
-		}
 	},
 	preprocess: [
 		preprocess({
-			postcss: true
+			postcss: true // TailwindCSS
 		})
 	],
 };
