@@ -11,7 +11,7 @@
 
 <div class="hero min-h-screen bg-base-200">
 	<div class="hero-content p-4 text-center">
-		<div class="max-w-xl">
+		<div class="max-w-md">
       <pre class="text-8xl pb-6 pointer-events-none select-none">🎉</pre>
 			<h1 class="text-5xl font-bold">Hey, It works!</h1>
 			<p class="py-6">
