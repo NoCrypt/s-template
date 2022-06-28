@@ -19,7 +19,7 @@
         theme-change, daisyUI, rubik fonts from fontsource, no tests out-of-the-box (add ur own), less boilerplate. Ready to deploy anywhere without any extra config.
 			</p>
 			<div class="mockup-code text-left mb-6 ">
-				<pre data-prefix="$"><code>npx degit nocrypt/s-template {"<APP_NAME>"} </code></pre>
+				<pre data-prefix="$"><code>npx degit NoCrypt/s-template {"<APP_NAME>"} </code></pre>
         <pre data-prefix="$"><code>cd {"<APP_NAME>"}</code></pre>
         <pre data-prefix="$"><code>pnpm i && code .</code></pre>
 			</div>
