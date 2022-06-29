@@ -15,7 +15,7 @@
 </svelte:head>
 
 <div class="flex min-h-screen bg-base-200 p-5 text-center justify-center items-center">
-		<div class="max-w-md w-full">
+		<div class="max-w-xl w-full">
       <pre class="text-8xl pb-6 pointer-events-none select-none">🎉</pre>
 			<h1 class="text-5xl font-bold">Hey, It works!</h1>
 			<p class="py-6">
